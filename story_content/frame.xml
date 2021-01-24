@@ -1231,51 +1231,6 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.621cAgNSgZv" displaytext="First_Scene" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.621cAgNSgZv.5sVgthDsCl8" displaytext="Title" expand="false" type="slide" />
-            <slidelink slideid="_player.621cAgNSgZv.63S2HUhAE30" displaytext="Second_slide" expand="false" type="slide" />
-            <slidelink slideid="_player.621cAgNSgZv.6ozMTuZWxgr" displaytext="Main_menu" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.61Uy7KsrvO5" displaytext="Module1" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.61Uy7KsrvO5.5f3GfIwR4QM" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.61Uy7KsrvO5.6Mqreotc8qb" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.61Uy7KsrvO5.5gngMz1WvGa" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.61Uy7KsrvO5.60RGdXhkWXt" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.61Uy7KsrvO5.5bj3fHtGlOr" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.61Uy7KsrvO5.6hM7ZByUYS2" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.61Uy7KsrvO5.6nkCvP8O7W6" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.61Uy7KsrvO5.6csxErAAoVr" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.61Uy7KsrvO5.6nwS6MXoDNV" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.61Uy7KsrvO5.6Iuf0IBGDXA" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.61Uy7KsrvO5.62CxZmoe0ac" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.61Uy7KsrvO5.5lfiy2fFtAN" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.61Uy7KsrvO5.6FaG6Rrf1Pu" displaytext="Untitled Slide" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.5kelhndGG3J" displaytext="Module2" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.5kelhndGG3J.6lVq8aRLRgX" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5kelhndGG3J.5dXbjPBAdl3" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5kelhndGG3J.5vVyMcGdUwc" displaytext="Pick One" expand="false" type="slide" />
-            <slidelink slideid="_player.5kelhndGG3J.5x0qKP1cLUK" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5kelhndGG3J.6Nk8i2yYjPW" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5kelhndGG3J.65LEEYx6ir5" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5kelhndGG3J.5no0V6CChKK" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5kelhndGG3J.6lhLJepqyvl" displaytext="Pick One" expand="false" type="slide" />
-            <slidelink slideid="_player.5kelhndGG3J.5zBkGivPHhY" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5kelhndGG3J.5vjfKr8U6Do" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5kelhndGG3J.6kdpJX02qHD" displaytext="Drag and Drop" expand="false" type="slide" />
-            <slidelink slideid="_player.5kelhndGG3J.5osEIQYQtAP" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5kelhndGG3J.6XgBj2kmtdQ" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5kelhndGG3J.6M2BkXMtTPp" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5kelhndGG3J.6ZbyD81qx7x" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5kelhndGG3J.6jumizWBRtt" displaytext="Drag and Drop" expand="false" type="slide" />
-            <slidelink slideid="_player.5kelhndGG3J.6DlZohB4zHT" displaytext="Untitled Slide" expand="false" type="slide" />
-          </links>
-        </slidelink>
         <slidelink slideid="_player.6mwJ15FJteT" displaytext="Module3" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6mwJ15FJteT.6FT7L1khTch" displaytext="Untitled Slide" expand="false" type="slide" />
